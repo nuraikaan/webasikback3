@@ -1,6 +1,6 @@
 # Assignment 4 – Secure Online Store API with RBAC
 **Student:** Nurai  
-**Course:** [Your course name]  
+**Course:** SE-2434 
 **Submission Date:** January 2026
 
 ## Project Description
